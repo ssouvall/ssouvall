@@ -2,7 +2,7 @@ Hi there 👋 , I’m Stephen Souvall!
 
 ---
 
-![https://twitter.com/SouvallStephen](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+[![](https://twitter.com/SouvallStephen)](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
 :file_folder: [Portfolio](https://www.stephensouvall.com)
 
