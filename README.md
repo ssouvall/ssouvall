@@ -2,8 +2,8 @@ Hi there 👋 , I’m Stephen Souvall!
 
 ---
 
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SouvallStephen)
-
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SouvallStephen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-souvall-bbb77116/) 
 :file_folder: [Portfolio](https://www.stephensouvall.com)
 
 I'm a Software Engineer based in Salt Lake City, UT, USA. Professional experience with the technologies listed in the toolbox below.
