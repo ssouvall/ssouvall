@@ -2,10 +2,11 @@ Hi there 👋 , I’m Stephen Souvall!
 
 ---
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SouvallStephen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-souvall-bbb77116/) 
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-ff0000?style=for-the-badge
 )](https://www.stephensouvall.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SouvallStephen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-souvall-bbb77116/) 
+
 
 I'm a Software Engineer based in Salt Lake City, UT, USA. Professional experience with the technologies listed in the toolbox below.
 
