@@ -1,7 +1,6 @@
 Hi there 👋 , I’m Stephen Souvall!
 
 ---
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSouvallStephen)
 
 :file_folder: [Portfolio](https://www.stephensouvall.com)
 
