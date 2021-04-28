@@ -12,8 +12,6 @@ I'm a Software Engineer based in Salt Lake City, UT, USA. Professional experienc
 
 I have a passion for solving tough problems by creating efficient, clean code. I specialize in C# and ASP.NET development and love to write useful, impactful applications for a variety of industries. To see my recent projects and learn more about me, visit my portfolio. Thank you!
 
-I am also a licensed Doctor of Physical Therapy and former private practice owner, with thousands of hours experience in hands-on care. My experience as a business owner and clinician uniquely positions me to connect with clients, colleagues, and stake holders to achieve exceptional outcomes.
-
 ---
 :toolbox: Toolbox
 
